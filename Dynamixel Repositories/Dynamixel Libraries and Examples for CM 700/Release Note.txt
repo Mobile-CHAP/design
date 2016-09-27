@@ -1,0 +1,50 @@
+======================================================
+       CM-700 Library & Example Version / v1.02
+======================================================
+
+>>> New functionality/features: <<<
+
+    * None
+
+>>> Changes: <<<
+    
+    * AVR Studio projects are converted to ATMEL Studio 6.x projects
+    
+>>> Bug fixes: <<<
+    
+    * 'zgb_hal.c' bug fixed.
+    * 'libzigbee.a' bug fixed
+
+
+======================================================
+       CM-700 Library & Example Version / v1.01
+======================================================
+
+>>> New functionality/features: <<<
+
+    * First released.
+        
+>>> Changes: <<<
+    
+    * ZigBee_RC100 code changed.
+    
+>>> Bug fixes: <<<
+    
+    * 'Dynamixel.c' bug fixed.
+
+
+======================================================
+       CM-700 Library & Example Version / v1.00
+======================================================
+
+>>> New functionality/features: <<<
+
+    * First released.
+        
+>>> Changes: <<<
+    
+    * None
+    
+>>> Bug fixes: <<<
+    
+    * None

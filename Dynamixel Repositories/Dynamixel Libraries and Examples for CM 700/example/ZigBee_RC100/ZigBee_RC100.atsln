@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "ZigBee_RC100", "ZigBee_RC100.cproj", "{69D4986B-B205-4D6A-BDFF-DCE6520D5DAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		default|AVR = default|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69D4986B-B205-4D6A-BDFF-DCE6520D5DAE}.default|AVR.ActiveCfg = default|AVR
+		{69D4986B-B205-4D6A-BDFF-DCE6520D5DAE}.default|AVR.Build.0 = default|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
