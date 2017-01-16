@@ -1,0 +1,31 @@
+Design History:
+---------------
+The original design of the coupling between the servo motor and the omniwheel had one guide to transfer the torque:
+WheelMount.stp
+Coupler.stp
+We do not have the original CAD files.
+
+There has been an attempt to produce a new design with two guides on the inside shaft to improve the torque transfer capability. 
+New-axle-body.FCStd
+This is a freeCAD files that can be edited
+
+Another design uses 3 guides on the used shaft for better coupling with the wheel - and less backlash.
+New-axle-slider (not on github at present).  
+
+
+Dimension issues:
+-----------------
+The file new-axle-body.FCStd has diameters modified for compensating for 3D printing inaccuracies.
+Therefore, the outer diameter of the shaft is 9.6mm while the inner diameter of the part fitting in the omniwheel is 10mm. 
+These corrections will depend on the quality of the 3D printer used and it is advised to print one set of parts and check if the fit is satisfactory,
+i.e. not too tight (so that the parts can be separated if needed) and not too loose (giving too much backlash to the wheel).
+
+
+Wheel housing
+--------------:
+
+this was originally designed on a comercial CAD software and we do not have the original files.
+we only have the stl and stp files.
+
+
+

@@ -1,0 +1,6 @@
+
+For 3D printing, files need to be save in .stl format
+
+For laser cutting, file need to be .dxf
+
+A format for transfering files between CAD software is .stp or .step (does not contain all parts information).

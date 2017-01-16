@@ -1,0 +1,3 @@
+ring.dxf
+is to be lasercut from 4-6 mm perspex.
+Is part of the wheel axle.

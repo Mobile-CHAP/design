@@ -1,0 +1,11 @@
+CAD files
+---------
+All the soldiworkds and dxf files are in the CAD folder.
+
+Instructions
+------------
+At present, the folder only contains images taken during the construction and testing of the gripper.
+The detailled assembly instructions will follow.
+In the mean time, do not hesitate to contact Guido Bugmann for instructions.
+
+GB 06/01/2017

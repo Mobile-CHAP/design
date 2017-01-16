@@ -1,0 +1,8 @@
+DualPulley13 has a small pulley radius of 13mm and a bif one of 26mm.
+The shaft hole has a radius of 10mm.
+
+Note that the shaft "coupler.stp" may have an external diameter also set to 10mm.
+Upon 3D printing, the holes and external diameter maybe slightly different, preventing an easy fit.
+
+The solution is to file/sandpaper, or create a new design.
+The joined file coupler_new.FCStd is an unfinished attempt, but the length seems short...

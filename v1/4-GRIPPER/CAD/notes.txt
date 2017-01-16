@@ -1,0 +1,3 @@
+hand_30072016.zip
+contains all solidworks the files for the gripper.
+Most of the parts are actually lasercut out of 3mm or 6mm MDF, using the .dxf files.
